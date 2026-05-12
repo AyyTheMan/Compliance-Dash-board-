@@ -1,0 +1,5 @@
+{
+  "name": "Compliance Governance Hub",
+  "description": "A dashboard for bank compliance managers to track, triage, and manage regulatory tasks using a tiered risk framework. This tool helps reduce cognitive load, ensures auditable workflows, and provides proactive monitoring of policy changes.",
+  "requestFramePermissions": []
+}
